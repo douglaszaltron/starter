@@ -1,0 +1,23 @@
+{
+  "cSpell.words": [
+    "signin",
+    "signup"
+  ],
+  "cSpell.ignoreWords": [
+    "antd",
+    "browserslist",
+    "camelcase",
+    "formik",
+    "immer",
+    "js",
+    "persistor",
+    "react",
+    "reactotron",
+    "readonly",
+    "roboto",
+    "sider",
+    "simpleagro",
+    "theming",
+    "wordmark"
+  ]
+}

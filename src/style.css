@@ -1,0 +1,17 @@
+.logo {
+  margin: 16px;
+  text-align: center;
+}
+
+.logo img {
+  transition: all .3s ease;
+}
+
+.site-layout .site-layout-background {
+  background: #fff;
+}
+
+.site-layout .ant-simple-global-header {
+  background: #009a48;
+  box-shadow: 0 1px 4px rgba(0,21,41,.08);
+}
