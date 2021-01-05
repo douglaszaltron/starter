@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "antd": "next",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "collect.js": "^4.20.2",
     "customize-cra": "^0.9.1",
     "date-fns": "^2.9.0",
